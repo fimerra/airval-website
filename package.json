@@ -1,0 +1,22 @@
+{
+  "name": "airval-website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bulma": "^0.4.2",
+    "font-awesome": "^4.7.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-scroll": "^1.5.2",
+    "styled-components": "^2.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
